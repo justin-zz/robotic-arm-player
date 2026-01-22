@@ -13,7 +13,7 @@
 
 ## Overview
 
-This one-week project is a Python & Arduino application designed to be run on the Windows OS. It downloads audio from YouTube links, converts them to MIDI files using Spotify's ACASSP 2022 model, converts the MIDI file into a sequence of commands sent to a serial port to control a few steppers on a robotic arm. Originally intended for fundraising; i.e.: Twitch viewer donates 1$ together with a link and the arm plays a fixed segment of it.
+Have you ever wanted to play your favorite music on your $10K robotic arm? Well, look no further! This one-week project is a Python & Arduino application designed to be run on the Win OS. It downloads audio from YouTube links, converts them to MIDI files using Spotify's ACASSP 2022 model, converts the MIDI file into a sequence of commands (via Miditones) sent to a serial port to control a few steppers on a robotic arm. Originally intended for fundraising; i.e.: Twitch viewer donates 1$ together with a link to a YouTube video and the arm plays a fixed segment of it, funds would help the uOttawa's rover team send more people to competition.
 
 ## Requirements
 
