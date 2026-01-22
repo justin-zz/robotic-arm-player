@@ -6,8 +6,9 @@
 </a> 
 
 <div align="center">
-   <a href="/Multiple Instance Learning Methods for Computational Pathology.pdf">Watch the Video!</a>
-   
+   <a href="https://www.youtube.com/watch?v=fO1SlkeHADE" target="_blank">Watch the Video!
+</a> 
+  
 </div>
 
 ## Overview
