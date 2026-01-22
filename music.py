@@ -22,7 +22,7 @@ from basic_pitch.inference import predict_and_save, ICASSP_2022_MODEL_PATH # mod
 class TwitchBot(commands.Bot):
 
     def __init__(self):
-        super().__init__(token='f7pyl614if5n92490ba7nwo21iaa83', prefix='!', initial_channels=['uorover'])
+        super().__init__(token='<fill in your twitch bot access token>', prefix='!', initial_channels=['uorover'])
 
     async def event_ready(self):
         print(f'Logged in as {self.nick}')
