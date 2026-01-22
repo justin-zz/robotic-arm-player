@@ -1,7 +1,14 @@
 
 # Robotic Arm Player (RAP)
 
-[![Watch the video](https://img.youtube.com/vi/fO1SlkeHADE/maxresdefault.jpg)](https://www.youtube.com/watch?v=fO1SlkeHADE)   
+<a href="https://www.youtube.com/watch?v=fO1SlkeHADE" target="_blank">
+  <img src="https://img.youtube.com/vi/fO1SlkeHADE/maxresdefault.jpg" alt="Watch the video">
+</a> 
+
+<div align="center">
+   <a href="/Multiple Instance Learning Methods for Computational Pathology.pdf">Watch the Video!</a>
+   
+</div>
 
 ## Overview
 
